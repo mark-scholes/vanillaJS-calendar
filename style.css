@@ -1,0 +1,11 @@
+* {
+  margin: none;
+  padding: none;
+  box-sizing: border-box;
+  list-style-type: none;
+}
+
+body {
+  background-color: #131322;
+  height: 100vh;
+}
